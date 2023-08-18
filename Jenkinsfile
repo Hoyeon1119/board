@@ -3,7 +3,7 @@ pipeline {
     environment {
             TIME_ZONE = 'Asia/Seoul'
             PROFILE = 'local'
-            AWS_CREDENTIAL_NAME = 'Test'
+            AWS_CREDENTIAL_NAME = 'seoulit-ssh'
             REGION="ap-northeast-2"
             ECR_PATH = '199095636744.dkr.ecr.ap-northeast-2.amazonaws.com'
             IMAGE_NAME = '199095636744.dkr.ecr.ap-northeast-2.amazonaws.com/board'
