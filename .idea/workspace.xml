@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="061302dd-5b0f-4a58-8d85-77153b71c477" name="변경" comment="수정" />
+    <list default="true" id="061302dd-5b0f-4a58-8d85-77153b71c477" name="변경" comment="수정">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +66,7 @@
       <updated>1692319980386</updated>
       <workItem from="1692319981536" duration="3477000" />
       <workItem from="1692337450469" duration="5798000" />
-      <workItem from="1692344928384" duration="2786000" />
+      <workItem from="1692344928384" duration="3204000" />
     </task>
     <task id="LOCAL-00001" summary="수정">
       <created>1692341537113</created>
@@ -114,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692354182480</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="수정">
+      <created>1692354730097</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692354730098</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
